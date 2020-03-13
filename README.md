@@ -2,6 +2,7 @@
 
 # These scripts were obfuscated with obfuscator.io.
 
-![V3RM]https://v3rmillion.net/uploads/avatars/avatar_1286792.png?dateline=1579710943)
-
 # Find me on V3RMILLION at Ocenting.
+
+# Usage
+#Access the console by pressing CONTROL+SHIFT+I. Click "CONSOLE" and paste the code.
